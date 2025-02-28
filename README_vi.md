@@ -1,5 +1,7 @@
 # Học phần Mạng Máy Tính
 
+> Lưu ý: Phiên bản tiếng Anh, vui lòng xem [README.md](README.md)
+
 Repository này chứa tài liệu và tài nguyên cho học phần Mạng Máy Tính, tập trung vào các khái niệm cơ bản và ứng dụng thực tế trong mạng máy tính.
 
 ## Tổng quan Học phần

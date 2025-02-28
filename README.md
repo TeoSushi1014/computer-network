@@ -1,5 +1,7 @@
 # Computer Networks Course
 
+> Note: For Vietnamese version, please see [README_vi.md](README_vi.md)
+
 This repository contains materials and resources for the Computer Networks course, focusing on fundamental concepts and practical applications in computer networking.
 
 ## Course Overview
